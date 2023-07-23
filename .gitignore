@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled output
+dist/
+build/
+out/
+
+# Logs and backups
+logs/
+*.log
+*.log.*
+*.backup
+*.bak
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Other
+.DS_Store
+Thumbs.db
